@@ -8,7 +8,7 @@
   },
 
   "events": {
-    "air pollution": "",
+    "air pollution": "Air pollution is bad",
     "water pollution": "TODO",
     "sound pollution": "TODO",
     "light pollution": "TODO"
