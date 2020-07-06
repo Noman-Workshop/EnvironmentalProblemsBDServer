@@ -1,0 +1,16 @@
+{
+  "terminology": {
+    "act": "An act is a law or the statute which has been passed by the legislature and approved by the President or the highest authority of a nation.",
+    "rule": "Most laws are not complete code in themselves, i.e. certain provisions as to their application or enforcement etc are deliberately left out by the legislature. That is where rules come into picture. Rules help govern the law. They are secondary. They are in place to make the Act work effectively.",
+    "form": "TODO",
+    "schedule": "TODO",
+    "policy": "TODO"
+  },
+
+  "events": {
+    "air pollution": "",
+    "water pollution": "TODO",
+    "sound pollution": "TODO",
+    "light pollution": "TODO"
+  }
+}

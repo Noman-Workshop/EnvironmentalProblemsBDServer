@@ -1,0 +1,109 @@
+{
+  "rule": [
+    {
+      "image": {
+        "rawUrl": "",
+        "accessibilityText": ""
+      },
+      "accordion": [
+        {
+          "title": "",
+          "subtitle": "",
+          "text": ""
+        }
+      ],
+      "chips": {
+        "options": [
+          {
+            "text": "",
+            "link": ""
+          }
+        ]
+      }
+    },
+    {
+      "image": {
+        "rawUrl": "",
+        "accessibilityText": ""
+      },
+      "accordion": [
+        {
+          "title": "",
+          "subtitle": "",
+          "text": ""
+        }
+      ],
+      "chips": {
+        "options": [
+          {
+            "text": "",
+            "link": ""
+          }
+        ]
+      }
+    },
+    {
+      "accordion": [
+        {
+          "title": "Rule 3: Declaration of Ecologically Critical Area",
+          "subtitle": "Considering Factors for declaring Ecologically Critical Area Restriction of Activities",
+          "text": "The third rule lists out the factors into consideration for Government declaring any area as Ecologically Critical Area. These factors include: Human Habitat, Ancient Monument, Archeological Site, Forest Sanctuary, National Park, Game Reserve, Wild Animals Habitat, Wetland, Mangrove, Forest Area, Bio-diversity of the Relevant Area and other relevant factors. The Government shall, in accordance with the standards referred to in rules 12 and 13, specify the activities or processes which can not be continued or initiated in an Ecologically Critical Area"
+        }
+      ],
+      "chips": {
+        "options": [
+          {
+            "text": "ECA",
+            "link": "http://en.banglapedia.org/index.php?title=Ecologically_Critical_Area"
+          }
+        ]
+      }
+    }
+  ],
+
+  "form": [
+    {
+      "accordion": [
+        {
+          "title": "Form 1: Application for Remedy",
+          "subtitle": "Form for appealing remedy due to active participation in Environment Pollution",
+          "text": "Any person affected or likely to be affected as mentioned in sub-section (1) of section 8 may apply to the Director General in Form-1 for remedy of the damage or apprehended damage. The Director General shall, within three months of receiving an application under sub-rule (1), dispose it of in accordance with sub-section (2) of section 8."
+        }
+      ],
+      "chips": {
+        "options": [
+          {
+            "text": "View Form",
+            "link": "https://elaw.org/system/files/Bangladesh%20--%20Environmental%20Conservation%20Rules%2C%201997.pdf#page=12"
+          },
+          {
+            "text": "Rule 3"
+          }
+        ]
+      }
+    }
+  ],
+  "schedule": [
+    {
+      "image": {
+        "rawUrl": "",
+        "accessibilityText": ""
+      },
+      "accordion": [
+        {
+          "title": "",
+          "subtitle": "",
+          "text": ""
+        }
+      ],
+      "chips": {
+        "options": [
+          {
+            "text": "",
+            "link": ""
+          }
+        ]
+      }
+    }
+  ]
+}
