@@ -4,13 +4,136 @@
     "rule": "Most laws are not complete code in themselves, i.e. certain provisions as to their application or enforcement etc are deliberately left out by the legislature. That is where rules come into picture. Rules help govern the law. They are secondary. They are in place to make the Act work effectively.",
     "form": "TODO",
     "schedule": "TODO",
-    "policy": "TODO"
+    "policy": "TODO",
+    "environment": "The environment is anything that surrounds us, trees, plants, air, forests etc. all form the part of our environment and are very useful for us in one way or the other.",
+    "deforestation":"Deforestation refers to the decrease in forest areas across the world that are lost for other uses such as agricultural croplands, urbanization, or mining activities.",
+    "pollution":"the introduction of harmful substances or products into the environment.",
+    "Desertification":"the process by which fertile land becomes desert, typically as a result of drought, deforestation, or inappropriate agriculture.",
+    "urbanization":"Urbanization (or urbanisation) refers to the population shift from rural to urban areas, the decrease in the proportion of people living in rural areas, and the ways in which societies adapt to this change.",
+    "indutrialization":"Industrialization is the process by which an economy is transformed from primarily agricultural to one based on the manufacturing of goods.",
+    "light pollution":"Light pollution is the presence of anthropogenic and artificial light in the night environment. It is exacerbated by excessive, misdirected or obtrusive use of light, but even carefully used light fundamentally alters natural conditions.",
+    "biodiversity":"Biodiversity is typically a measure of variation at the genetic, species, and ecosystem level.",
+    "desertification":"Desertification is a type of land degradation in drylands in which biological productivity is lost due to natural processes or induced by human activities whereby fertile areas become increasingly more arid.",
+    "pathogen":"Any disease-producing agent (especially a virus or bacterium or other microorganism) microorganism, micro-organism - any organism of microscopic size. infectious agent, infective agent - an agent capable of producing infection.",
+    "pollutants":"a substance that pollutes something, especially water or the atmosphere.",
+    "ozone depletion":"gradual thinning of Earth’s ozone layer in the upper atmosphere caused by the release of chemical compounds containing gaseous chlorine or bromine from industry and other human activities.",
+    "green house effect":"the trapping of the sun's warmth in a planet's lower atmosphere, due to the greater transparency of the atmosphere to visible radiation from the sun than to infrared radiation emitted from the planet's surface.",
+    "global warming":"a gradual increase in the overall temperature of the earth's atmosphere generally attributed to the greenhouse effect caused by increased levels of carbon dioxide, CFCs, and other pollutants."
   },
-
   "events": {
-    "air pollution": "Air pollution is bad",
-    "water pollution": "TODO",
-    "sound pollution": "TODO",
-    "light pollution": "TODO"
+    "air pollution": {
+      "define": "Air pollution is a mixture of solid particles and gases in the air.",
+      "cause": [
+        "Industry.",
+        "Vehicle Emissions.",
+        "Household and Farming Chemicals.",
+        "Deforestation.",
+        "Smoking.",
+        "Fossil Fuel-Based Power Plants."
+      ],
+      "effect": [
+        "Air pollution has been known to cause allergies, disease, damage to crops, and in extreme cases, even death.",
+        "Air pollution creates an imbalance in the natural gases that make up our Earth’s atmosphere.",
+        "The Ozone depletes, the rate of global warming increases.",
+        "Air pollutants can cause respiratory illnesses and allergies ranging from coughs to asthma, cancer or emphysema.",
+        "Air pollutants also deteriorate and change the constitution of building materials, so many buildings and infrastructure are weakened, eroded or destroyed at an accelerated rate over time."
+      ],
+      "prevention": [
+        "Reduce the number of trips one take in your car.",
+        "Reduce or eliminate fireplace and wood stove use.",
+        "Avoid burning leaves, trash, and other materials.",
+        "Avoid using gas-powered lawn and garden equipment."
+      ],
+      "remedy": [
+        "Conserve energy - at home, at work, everywhere.",
+        "Look for the energy star label when buying home or office equipment.",
+        "Carpool, use public transportation, bike, or walk whenever possible.",
+        "Follow gasoline refueling instructions for efficient vapor recovery, being careful not to spill fuel and always tightening your gas cap securely.",
+        "Consider purchasing portable gasoline containers labeled “spill-proof,” where available."
+      ]
+    },
+    "water pollution": {
+      "define": "Water pollution is defined as the presence in groundwater of toxic chemicals and biological agents that exceed what is naturally found in the water and may pose a threat to human health and/or the environment. ",
+      "cause": [
+        "Industrial waste.",
+        "Sewage and wastewater.",
+        "Mining activities.",
+        "Marine dumping.",
+        "The burning of fossil fuels."
+      ],
+      "effect": [
+        "In humans, drinking or consuming polluted water in any way has many disastrous effects on our health.",
+        "Water pollution can cause an entire ecosystem to collapse if left unchecked.",
+        "Disruption in food chains happens when toxins and pollutants in the water are consumed by aquatic animals (fish, shellfish etc) which are then consumed by humans."
+      ],
+      "prevention": [
+        "Avoid smoking indoors (but quitting smoking is the best answer for overall health).",
+        "Use craft supplies in well-ventilated areas.",
+        "Make sure your gas stove is well-ventilated.",
+        "Minimize clutter.",
+        "Remove carpeting if possible."
+      ],
+      "remedy": [
+        "Reduce the number of trips you take in your car.",
+        "Reduce or eliminate fireplace and wood stove use.",
+        "Avoid burning leaves, trash, and other materials.",
+        "Avoid using gas-powered lawn and garden equipment."
+      ]
+    },
+    "sound Pollution": {
+      "define": "Sound pollution, also known as environmental noise or sound pollution, is the propagation of noise with ranging impacts on the activity of human or animal life, most of them harmful to a degree.",
+      "cause": [
+        "Traffic noise.",
+        "Construction sites.",
+        "Catering and night life.",
+        "Animals"
+      ],
+      "effect": [
+        "Respiratory agitation, racing pulse, high blood pressure, headaches and, in case of extremely loud, constant noise, gastritis, colitis and even heart attacks.",
+        "Noise can cause attacks of stress, fatigue, depression, anxiety and hysteria in both humans and animals.",
+        "Noise above 45 dB stops you from falling asleep or sleeping properly.",
+        "Noise may affect people's ability to focus, which can lead to low performance over time."
+      ],
+      "prevention": [
+        "avoid very noisy leisure activities",
+        "opt for alternatives means of transport such as bicycles or electric vehicles over taking the car",
+        "insulate homes with noise-absorbing materials",
+        "protecting certain areas — parts of the countryside."
+      ],
+      "remedy": [
+        "Upgrade Your Insulation.",
+        "Noise Cancelling Headphones and Earplugs.",
+        "Turn Off Electrical Appliances.",
+        "Planting more trees."
+      ]
+    },
+    "soil Pollution": {
+      "define": "Soil contamination or soil pollution as part of land degradation is caused by the presence of xenobiotics (human-made) chemicals or other alteration in the natural soil environment.",
+      "cause": [
+        "Industrial waste.",
+        "Deforestation.",
+        "Excessive use of fertilisers and pesticides.",
+        "Garbage pollution.",
+        "Climate change.",
+        "Loss of soil fertility."
+      ],
+      "effect": [
+        " Effect on Health of Humans.",
+        "Effect on Growth of Plants.",
+        " Decreased Soil Fertility",
+        "Changes in Soil Structure."
+      ],
+      "prevention": [
+        "Recycle and Reuse to Stop Pollution. Recycling and reusing resources",
+        "Avoid Use of Chemicals in Farming.",
+        " Proper management of agricultural land and the practice of organic farming.",
+        "Proper Solid Waste Treatment."
+      ],
+      "remedy": [
+        "Thermal desorption.",
+        "Solidification and stabilization.",
+        "Soil vapor extraction"
+      ]
+    }
   }
 }
